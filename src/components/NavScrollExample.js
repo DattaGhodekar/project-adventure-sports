@@ -152,7 +152,7 @@ let contact=()=>{
    
    <div className="carousel-inner">
      <div className="carousel-item active c-item">
-       <img src="assests/images/bungee.webp" className="d-block w-100 img-item" alt="..."/>
+       <img src="assests/images/hospital.webp" className="d-block w-100 img-item" alt="..."/>
        <div className="carousel-caption d-none d-md-block add ">
          
          <h1>Unlimited Adventure with
@@ -180,10 +180,9 @@ let contact=()=>{
 </ul>
 <nav className="navbar navbar-expand-lg sub-navbar"> 
  <div className="collapse navbar-collapse filter" id="nav" >
-<h3><button className="btn btn-light" >FILTER By:</button></h3>
-<h3><button className="btn btn-light">daypass</button></h3>
+
 <h3><button className="btn btn-light">jumbopass</button></h3>
-<h3><button className="btn btn-light">kids friendly</button></h3>
+
 
 </div>
 <button className="navbar-toggler" data-toggle="collapse" data-target="#nav"><span className="navbar-toggler-icon"></span></button>
@@ -193,19 +192,17 @@ let contact=()=>{
 <div className="col-sm-12 col-md-9 ">
 <div className="row ">
 <div className=" card col-sm-4 col-md-6 card border-warning ">
- <img src="https://www.dellaadventure.com/uploads/5066chess-inside-img.jpg" className="card-img-top" alt="..."/>
+ <img src="assests/images/Labo.jpg" className="card-img-top" alt="..."/>
 <div className="card-body">
- <h5 className="card-title">1 Thriller Factor</h5>
- <h1 className="card-text">CHESS</h1>
- <a href="#" className="btn btn-warning" onClick={chess}>View activity</a>
+ <h1 className="card-text">Laboratory services</h1>
+
 </div>
 </div>
 <div className=" card col-sm-4 col-md-6 card border-warning" >
- <img src="https://www.dellaadventure.com/uploads/6839carrom-outside-img.jpg" className="card-img-top" alt="..."/>
+ <img src="assests/images/x-ray.jpeg"  className="card-img-top" alt="..."/>
  <div className="card-body">
-   <h5 className="card-title">1 Thriller Factor</h5>
-   <h1 className="card-text">CARROM</h1>
-   <a href="#" className="btn btn-warning"onClick={carrom}>View activity</a>
+   <h1 className="card-text">X-ray/Radiology</h1>
+
  </div>
 </div>
 </div>
@@ -215,19 +212,17 @@ let contact=()=>{
 <div className="col-sm-12 col-md-9 ">
 <div className="row ">
 <div className=" card col-sm-4 col-md-6 card border-warning ">
- <img src="https://www.dellaadventure.com/uploads/250747.jpg" className="card-img-top" alt="..."/>
+ <img src="assests/images/sur.jpeg" className="card-img-top" alt="..."/>
 <div className="card-body">
- <h5 className="card-title">1 Thriller Factor</h5>
- <h1 className="card-text">VIRTUAL RACING CARS</h1>
- <a href="#" className="btn btn-warning" onClick={navi1}>View activity</a>
+ <h1 className="card-text">Surgical ICU</h1>
+
 </div>
 </div>
 <div className=" card col-sm-4 col-md-6 card border-warning" >
- <img src="https://www.dellaadventure.com/uploads/160048.jpg" className="card-img-top" alt="..."/>
+ <img src="assests/images/Surgery.jpg" className="card-img-top" alt="..."/>
  <div className="card-body">
-   <h5 className="card-title">1 Thriller Factor</h5>
-   <h1 className="card-text">VIRTUAL GAMES</h1>
-   <a href="#" className="btn btn-warning" onClick={navi10}>View activity</a>
+   <h1 className="card-text">Specialty Surgical Services</h1>
+
  </div>
 </div>
 </div>
@@ -237,19 +232,17 @@ let contact=()=>{
 <div className="col-sm-12 col-md-9 ">
 <div className="row ">
 <div className=" card col-sm-4 col-md-6 card border-warning">
- <img src="https://www.dellaadventure.com/uploads/5980longest-flying-fox-outside-img.jpg" className="card-img-top" alt="..."/>
+ <img src="assests/images/emr.jpg" className="card-img-top" alt="..."/>
 <div className="card-body">
- <h5 className="card-title text-danger">7 Thriller Factor</h5>
- <h1 className="card-text">LONGEST FLYING FOX</h1>
- <a href="#" className="btn btn-warning" onClick={navi2}>View activity</a>
+ <h1 className="card-text">Emergency Medical Services</h1>
+ 
 </div>
 </div>
 <div className=" card col-sm-4 col-md-6 card border-warning" >
- <img src="https://www.dellaadventure.com/uploads/2414Circadian%20Cycle1.jpg" className="card-img-top" alt="..."/>
+ <img src="assests/images/blood.jpg" className="card-img-top" alt="..."/>
  <div className="card-body">
-   <h5 className="card-title text-danger">7 Thriller Factore</h5>
-   <h1 className="card-text">Circadian Cycle</h1>
-   <a href="#" className="btn btn-warning" onClick={navi3}>View activity</a>
+   <h1 className="card-text">Blood Services </h1>
+
  </div>
 </div>
 </div>
@@ -259,19 +252,17 @@ let contact=()=>{
 <div className="col-sm-12 col-md-9 ">
 <div className="row ">
 <div className=" card col-sm-4 col-md-6 card border-warning ">
- <img src="https://www.dellaadventure.com/uploads/2669rappelling-outside-img.jpg" className="card-img-top" alt="..."/>
+ <img src="assests/images/pharm.jpg" className="card-img-top" alt="..."/>
 <div className="card-body">
- <h5 className="card-title text-danger">8 Thriller Factore</h5>
- <h1 className="card-text">RAPPELING</h1>
- <a href="#" className="btn btn-warning" onClick={navi4}>View activity</a>
+ <h1 className="card-text">Pharmacy Service</h1>
+
 </div>
 </div>
 <div className=" card col-sm-4 col-md-6 card border-warning" >
- <img src="https://www.dellaadventure.com/uploads/42859365ATV%20200cc.jpg" className="card-img-top" alt="..."/>
+ <img src="assests/images/ultra.jpg" className="card-img-top" alt="..."/>
  <div className="card-body">
-   <h5 className="card-title btn-warning"> 8 Thriller Factoree</h5>
-   <h1 className="card-text">ATV</h1>
-   <a href="#" className="btn btn-warning" onClick={navi5}>View activity</a>
+   <h1 className="card-text">Ultrasound Scan Service</h1>
+ 
  </div>
 </div>
 </div>
@@ -281,19 +272,17 @@ let contact=()=>{
 <div className="col-sm-12 col-md-9 ">
 <div className="row ">
 <div className=" card col-sm-4 col-md-6 card border-warning">
- <img src="https://www.dellaadventure.com/uploads/8753shooting-range-outside-img.jpg" className="card-img-top" alt="..."/>
+ <img src="assests/images/home.jpeg" className="card-img-top" alt="..."/>
 <div className="card-body">
- <h5 className="card-title">2 thriller factor</h5>
- <h1 className="card-text">SHOOTING RANGE</h1>
- <a href="#" className="btn btn-warning" onClick={navi6}>View activity</a>
+ <h1 className="card-text">Home Nursing Services</h1>
+ 
 </div>
 </div>
 <div className=" card col-sm-4 col-md-6 card border-warning" >
- <img src="https://www.dellaadventure.com/uploads/8604Bungee-trampoline.png" className="card-img-top" alt="..."/>
+ <img src="assests/images/short.jpg" className="card-img-top" alt="..."/>
  <div className="card-body">
-   <h5 className="card-title">2 thriller factor</h5>
-   <h1 className="card-text">BUNGEE TRAMPOLINE</h1>
-   <a href="#" className="btn btn-warning" onClick={navi7}>View activity</a>
+   <h1 className="card-text">Short Term Hospitalization</h1>
+
  </div>
 </div>
 </div>
@@ -303,19 +292,17 @@ let contact=()=>{
 <div className="col-sm-12 col-md-9 ">
 <div className="row">
 <div className=" card col-sm-4 col-md-6 card border-warning ">
- <img src="https://www.dellaadventure.com/uploads/8202rocket-ejector-outside-img.jpg" className="card-img-top" alt="..."/>
+ <img src="assests/images/ward.avif" className="card-img-top" alt="..."/>
 <div className="card-body">
- <h5 className="card-title">2 thriller factor</h5>
- <h1 className="card-text">JUMPING IJECTOR</h1>
- <a href="#" className="btn btn-warning" onClick={navi8}>View activity</a>
+ <h1 className="card-text">Spacious General Wards</h1>
+
 </div>
 </div>
 <div className="card col-sm-4 col-md-6 card border-warning" >
- <img src="https://www.dellaadventure.com/uploads/4499High%20Rope%20Challenge.JPG" className="card-img-top" alt="..."/>
+ <img src="assests/images/CT.jpg" className="card-img-top" alt="..."/>
  <div className="card-body">
-   <h5 className="card-title">Card title</h5>
-   <h1 className="card-text">HIGH ROPE CHALLENGE</h1>
-   <a href="#" className="btn btn-warning" onClick={navi9}>View activity</a>
+   <h1 className="card-text">CT Scan Services</h1>
+  
  </div>
 </div>
 </div>
